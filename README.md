@@ -76,7 +76,7 @@ Aplikasi menggunakan React State dan Array lokal untuk menyimpan serta mengelola
 
 ## Pengembang
 
-Nama: [Nama Mahasiswa]
+Nama: Ganes Aravat
 
 Program Studi: Teknologi Informasi
 
